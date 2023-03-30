@@ -1,0 +1,22 @@
+{
+  "name": "testAgainPod",
+  "version": "0.1.0",
+  "summary": "A short description of testAgainPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/CanopusiOSs/testAgainPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "CanopusiOSs": "nirmal.patel@canopusinfosystems.com"
+  },
+  "source": {
+    "git": "https://github.com/CanopusiOSs/testAgainPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "testAgainPod/Classes/**/*"
+}
