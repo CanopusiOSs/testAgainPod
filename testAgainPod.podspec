@@ -12,7 +12,7 @@ Pod::Spec.new do |spec|
   spec.author       = { "Nirmal" => "nirmal.patel@canopusinfosystems.com" }
   spec.platform     = :ios, "12.0"
   spec.source       = { :git => "https://github.com/CanopusiOSs/testAgainPod.git", :tag => spec.version.to_s }
-  spec.source_files  = "testAgain/**/*.swift"
+  spec.source_files  = "testAgainPod/**/*.swift"
   spec.exclude_files = "Classes/Exclude"
   spec.swift_version = "5.0.0"
 end
